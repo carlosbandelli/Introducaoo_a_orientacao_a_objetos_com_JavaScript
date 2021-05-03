@@ -1,0 +1,5 @@
+1 - pilar herança
+2 - polimorfismos
+3 - encapsulamento
+4 - abstração
+5 - composição
